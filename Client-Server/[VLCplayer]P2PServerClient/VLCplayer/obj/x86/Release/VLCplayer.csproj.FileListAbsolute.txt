@@ -1,0 +1,17 @@
+D:\C#VideoLAN\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\Interop.AXVLC.dll
+D:\C#VideoLAN\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\AxInterop.AXVLC.dll
+D:\C#VideoLAN\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.csproj.ResolveComReference.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\bin\Release\VLCplayer.exe
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\bin\Release\VLCplayer.pdb
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\bin\Release\Interop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\bin\Release\AxInterop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.csprojAssemblyReference.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\Interop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\AxInterop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.csproj.ResolveComReference.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.Form1.resources
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.Properties.Resources.resources
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.csproj.GenerateResource.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.csproj.CoreCompileInputs.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.exe
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]P2PServerClient\VLCplayer\obj\x86\Release\VLCplayer.pdb

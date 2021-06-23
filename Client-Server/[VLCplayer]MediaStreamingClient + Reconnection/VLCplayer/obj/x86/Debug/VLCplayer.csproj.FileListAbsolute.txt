@@ -1,0 +1,70 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\bin\Debug\VLCplayer.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\bin\Debug\VLCplayer.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\bin\Debug\Interop.AXVLC.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\bin\Debug\AxInterop.AXVLC.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\Interop.AXVLC.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\AxInterop.AXVLC.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\VLCplayer.csproj.ResolveComReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\VLCplayer.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\VLCplayer.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\VLCplayer.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\VLCplayer\VLCplayer\obj\x86\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\VLCplayer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\Interop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\VLCplayer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\Interop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\VLCplayer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Client-Server\[VLCplayer]MediaStreamingClient\VLCplayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.exe
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\VLCplayer.exe
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\VLCplayer.pdb
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\Interop.AXVLC.dll
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\VLCplayer.exe
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\VLCplayer.pdb
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.csprojAssemblyReference.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.csproj.ResolveComReference.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.Form1.resources
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.Properties.Resources.resources
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.csproj.GenerateResource.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.csproj.CoreCompileInputs.cache
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.exe
+C:\Users\函諺\Desktop\數位媒體中心系統-20210601T161357Z-001\數位媒體中心系統\Client-Server\[VLCplayer]MediaStreamingClient + Reconnection\VLCplayer\obj\x86\Debug\VLCplayer.pdb
